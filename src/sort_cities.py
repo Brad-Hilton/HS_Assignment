@@ -2,7 +2,7 @@
 # sorts the data in descending alphabetic order,
 # then writes output.csv
 
-import csv #imports the csv library
+import csv
 
 with open('../input.csv') as csvfile:
     reader = csv.reader(csvfile, delimiter=',')
