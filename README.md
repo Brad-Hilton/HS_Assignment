@@ -48,7 +48,7 @@ software?
 > -   Docker allows for full control of environment setup and teardown.
      This allows for a consistent test system each time an individual or
     team needs a new one.
-
+>
 > -   Removing human error and the amount of time it takes to set up and
     maintain an environment is a huge benefit.  
 > 
