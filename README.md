@@ -66,7 +66,7 @@ choose the language for the programming exercise above?
 
 > Several things go into deciding which language to use.  I ask myself
 > several questions when figuring this out.
-
+>
 > -   Is the task at hand going to be maintained long term?
 > 
 >     -   If yes, then a bigger discussion needs to happen with the team
@@ -90,13 +90,13 @@ choose the language for the programming exercise above?
 > 
 >     -   If the company has requirements, then it would be best to stick
         to those.
-
+>
 > -   What are current industry trends?
 > 
 >     -   Creating something in a rarely used language could have issues
         such as not being able to find qualified staff or possibly
         technical issues with lack of support.
-
+>
 > -   What libraries exist for that language and are they supported?
 > 
 >     -   If development requires a special library, then it might be
